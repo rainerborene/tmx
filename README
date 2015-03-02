@@ -1,0 +1,24 @@
+tmx(1)                           User Commands                          tmx(1)
+
+
+
+NAME
+       tmx - open tmux sessions efficiently.
+
+SYNOPSIS
+       tmx SESSION
+
+DESCRIPTION
+       Launch a new tmux window each time you open a terminal window.
+
+       Inactive tmux windows are purged on EXIT pseudo-signal.
+
+AUTHOR
+       Written by Rainer Borene.
+
+REPORTING BUGS
+       Please file bugs at https://github.com/rainerborene/tmx/issues/
+
+
+
+Version 0.1                       March 2015                            tmx(1)
