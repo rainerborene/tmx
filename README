@@ -19,6 +19,9 @@ AUTHOR
 REPORTING BUGS
        Please file bugs at https://github.com/rainerborene/tmx/issues/
 
+SEE ALSO
+       tmux(1)
+
 
 
 Version 0.1                       March 2015                            tmx(1)
