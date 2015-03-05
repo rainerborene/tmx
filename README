@@ -9,9 +9,8 @@ SYNOPSIS
        tmx SESSION
 
 DESCRIPTION
-       Launch a new tmux window each time you open a terminal window.
-
-       Inactive tmux windows are purged on EXIT pseudo-signal.
+       Launch  a  new tmux window each time you open a terminal window.  Inac‐
+       tive tmux windows are purged on EXIT pseudo-signal.
 
 AUTHOR
        Written by Rainer Borene.
